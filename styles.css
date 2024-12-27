@@ -1,0 +1,28 @@
+body {
+    font-family: times new roman, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: ;dodgerblue
+}
+
+header {
+font-family:cooper black;
+font-color:black;
+font-size:25px;
+    background-color: skyblue;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 1rem;
+    color: green;
+    text-decoration: none;
+    text-align : center;
+}
+
+main {
+    padding: 1rem;
+}
